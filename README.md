@@ -8,4 +8,4 @@
 6. Có rất nhiều thư viện trên mạng
 7. Hiệu năng cao: sử dụng JIT (Just-In-Time) compilers, byte-code dễ dàng dịch sang ngôn ngữ máy
 8. Mạnh mẽ: Java có hệ thống quản lý bộ nhớ riêng, loại bỏ các lỗi trong quá trình biên dịch và runtime
-9. Đa luồng (rất m
+9. Đa luồng (rất mạnh)
