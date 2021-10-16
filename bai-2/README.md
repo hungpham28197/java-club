@@ -14,4 +14,5 @@
 5. Default constructor (ko tham số, ko trả về giá trị (void)): ko khai báo thì java tự tạo cho
 6. Từ khóa this: ánh xạ đến chính object đó
 7. Overloading (nạp chồng)
-8. Biến và method static/non-static
+8. Constructor gọi constructor
+9. Biến và method static/non-static
